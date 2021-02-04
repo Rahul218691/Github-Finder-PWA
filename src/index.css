@@ -1,0 +1,18 @@
+/* body{
+    background: black;
+    color: white;
+} */
+
+hr{
+    border: 1px solid #ccc
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}

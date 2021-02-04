@@ -1,0 +1,25 @@
+.img_class{
+    height: 350px !important;
+}
+
+.paginate-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .footer-area{
+    position:absolute;
+    top: 90%;
+} */
+
+.dark-theme{
+    background: black;
+    color: white;
+    height: 94.1vh;
+}
+
+.light-theme{
+    color: black;
+}
+
